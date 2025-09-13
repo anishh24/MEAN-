@@ -1,2 +1,2 @@
 # -mean-stack-crud-app
-MEAN Stack CRUD Application for LwayTechnologies Exercise
+MEAN Stack CRUD Application
